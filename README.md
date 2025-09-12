@@ -23,6 +23,16 @@ Interests and hobbies:
 
 You can email me at [dlshgholson@gmail.com](mailto:dlshgholson@gmail.com), or while I'm still in UW Madison I check [dlgholson@wisc.edu](mailto:dgholson@wisc.edu) more often (will probably remove after Dec 2025).
 
+# Future Project Ideas
+
+Some simple project ideas I'm considering:
+
+- Simple C++ graph library.
+- Primitive audio manipulation in C.
+- First-order logic parser and simplifier.
+
+If you see this annoying "typewriter7051" guy all over the place that's my personal GitHub.
+
 <!--
 **dlshgholson/dlshgholson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
