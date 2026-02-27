@@ -21,7 +21,7 @@ Interests and hobbies:
 
 # Contact Me
 
-You can email me at [dlshgholson@gmail.com](mailto:dlshgholson@gmail.com), or while I'm still in UW Madison I check [dlgholson@wisc.edu](mailto:dgholson@wisc.edu) more often (will probably remove after Dec 2025).
+You can email me at [dlshgholson@gmail.com](mailto:dlshgholson@gmail.com), or [dlshgholson@proton.me](mailto:dlshgholson@proton.me).
 
 # Future Project Ideas
 
@@ -31,7 +31,7 @@ Some simple project ideas I'm considering:
 - Primitive audio manipulation in C.
 - First-order logic parser and simplifier.
 
-If you see this annoying "typewriter7051" guy all over the place that's my personal GitHub.
+The "typewriter7051" profile is my private GitHub account, and sometimes shows up when I forget to git config.
 
 <!--
 **dlshgholson/dlshgholson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
