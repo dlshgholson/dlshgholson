@@ -1,9 +1,3 @@
----
-title: About Myself
-author: Daniel Gholson
-email: dlshgholson@gmail.com
----
-
 # Intro
 
 This GitHub account was created to display more career-oriented projects and skills.
@@ -27,7 +21,7 @@ You can email me at [dlshgholson@gmail.com](mailto:dlshgholson@gmail.com), or [d
 
 Some simple project ideas I'm considering:
 
-- Simple C++ graph library.
+- [x] Simple C++ graph library.
 - Primitive audio manipulation in C.
 - First-order logic parser and simplifier.
 
